@@ -1,0 +1,5 @@
+spring.application.name: try-mapstruct-sqids
+
+logging:
+  level:
+    org.springframework.jdbc: DEBUG
